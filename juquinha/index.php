@@ -26,25 +26,5 @@
 	} elseif ( is_search() ) {
 		?>
     
-    <img src="assets/img/m1.png">
-    <h4>Primeira imagem aleatoria para o tema</h4> 
     
-    <img src="assets/img/m2.png">
-    <h4>Segunda imagem aleatoria para o tema</h4> 
-    
-    <img src="assets/img/m3.png">
-    <h4>Terceira imagem aleatoria para o tema</h4> 
-    
-    <img src="assets/img/m4.png">
-    <h4>Quarta imagem aleatoria para o tema</h4> 
-    
-    <img src="assets/img/m5.png">
-    <h4>Quinta imagem aleatoria para o tema</h4> 
-    
-    <img src="assets/img/m6.png">
-    <h4>Sexta imagem aleatoria para o tema</h4> 
-
-</div>
-</div>
-</div>
 <?php get_footer (); ?>
